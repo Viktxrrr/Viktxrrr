@@ -1,7 +1,7 @@
 ### 💼 About me
-**Name**: Viktor  
-**Languages**: 🇷🇺 Russian, 🇬🇧 English  
-**Specialization**: DevOps Engineer  
+**Name**: Viktor
+**Languages**: Russian, English
+**Specialization**: DevOps Engineer
 **Organization**: Sberbank of Russia
 
 ### 🚀 Programming Languages
