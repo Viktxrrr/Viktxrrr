@@ -1,7 +1,6 @@
 ### 💼 About me
-**Name**: Viktor  
-**Languages**: English  
-**Specialization**: DevOps Engineer   
+Viktor
+DevOps Engineer   
 
 ### 🚀 Programming Languages
 <div>
