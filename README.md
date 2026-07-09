@@ -19,12 +19,6 @@ DevOps Engineer
 
 <br/>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Viktxrrr&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktxrrr&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Most Used Languages" />
-</div>
-
-
 <!--
 **Viktxrrr/Viktxrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
